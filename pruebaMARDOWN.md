@@ -66,6 +66,14 @@ public static void main(String[] arg){
 >>cita anidada
 
 @susana
+
+## Venas
+
+-[x]No fumar
+-[x]No tomar alimentos ricos en grasas saturadas
+- [ ]Hacer ejercicio
+- [x]Comer vegetales
+
 <br>
 <br>
 
