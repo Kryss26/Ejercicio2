@@ -32,5 +32,41 @@ Envian la <u>información</u> al resto del cuerpo
 ![foto bronquios][bronquios1]
 ## Alveolos
 
+Funcionaiento de una neurona
+
+``` java
+public static void main(String[] arg){
+    int valor = 5;
+    System.out.println("Hola");
+}
+```
+
+``` html
+<html>
+<body>
+<h1> Título </h1>
+</body>
+</html>
+```
+
+# Sistema circulatorio
+
+## Corazón
+
+|Nombre| PPM| Saturación|
+|:---:|---:|:---|
+| Ana  |  79 | 10%|
+| Juan |  82 | 20%|
+| Rosa |  60 | 15%|
+
+<br>
+<br>
+
+> Hay que escuchar la cabeza, pero dejar hablar al corazón
+>>cita anidada
+@susana
+<br>
+<br>
+
 [bonquios1]: 
 https://sooluciona.com/wp-content/uploads/2019/07/Diferencias-entre-el-bronquio-izquierdo-y-el-bronquio-derecho.jpg
