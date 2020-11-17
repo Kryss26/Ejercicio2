@@ -27,3 +27,10 @@ Envian la <u>información</u> al resto del cuerpo
 # pulmones
 
 ![pulmones](https://omniprex.com/wp-content/uploads/2020/07/pulmon.jpg)
+
+## Bronquios
+![foto bronquios][bronquios1]
+## Alveolos
+
+[bonquios1]: 
+https://sooluciona.com/wp-content/uploads/2019/07/Diferencias-entre-el-bronquio-izquierdo-y-el-bronquio-derecho.jpg
